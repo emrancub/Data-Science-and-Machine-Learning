@@ -25,12 +25,7 @@ I’ll keep this flexible and pick libraries depending on the problem.
 
 ---
 
-## 📄 License
-
-I will add a license (e.g., MIT) once I settle on it.
-
----
-
 ## 🙌 Thanks
 
-Thanks from, **Md Emran Hasan**
+Thanks from, [Md Emran Hasan](https://www.linkedin.com/in/emrancub/)
+
