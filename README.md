@@ -25,16 +25,6 @@ I’ll keep this flexible and pick libraries depending on the problem.
 
 ---
 
-## 🗺️ Roadmap (will update)
-
-* [ ] Add template notebooks (EDA, baseline model)
-* [ ] Add `src/dsml/` utilities (data, features, metrics)
-* [ ] Add experiment tracking (MLflow or W&B)
-* [ ] Add simple deployment demo (FastAPI batch/predict)
-* [ ] Write model cards in `reports/`
-
----
-
 ## 📄 License
 
 I will add a license (e.g., MIT) once I settle on it.
@@ -43,7 +33,4 @@ I will add a license (e.g., MIT) once I settle on it.
 
 ## 🙌 Thanks
 
-Learning in public—thanks to the open-source community behind these tools.
-
-```
-
+Thanks from, **Md Emran Hasan**
