@@ -1,4 +1,3 @@
-```markdown
 # Python Data Structures - Practice Lab (Practice by myself for learning...)
 
 Hands-on practice materials for core Python data structures.  
