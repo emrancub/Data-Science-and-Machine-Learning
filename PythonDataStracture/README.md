@@ -3,11 +3,9 @@
 Hands-on practice materials for core Python data structures.  
 This folder contains simple, well-commented examples for **Lists, Tuples, Sets, and Dictionaries**, plus a `PythonExamples` area with small scripts that combine ideas.
 
----
 
 ## 📂 Folder Structure
 
-```
 
 PythonDataStructure/
 ├─ Dictionaries/      # Key–value basics, methods, nested dicts, safe lookups
@@ -17,11 +15,9 @@ PythonDataStructure/
 ├─ Tuples/            # Immutable sequences, packing/unpacking
 └─ README.md
 
-````
 
 > Each subfolder contains one or more `*.py` files. Open them to read comments and run them directly.
 
----
 
 ## 🚀 Quick Start
 
@@ -29,7 +25,6 @@ PythonDataStructure/
    ```bash
    git clone https://github.com/emrancub/Data-Science-and-Machine-Learning.git
    cd Data-Science-and-Machine-Learning/PythonDataStructure
-````
 
 2. **(Optional) Create a virtual environment**
 
@@ -50,7 +45,6 @@ PythonDataStructure/
 
 > Requirements: Python 3.8+ (no external packages needed).
 
----
 
 ## 📘 What You’ll Learn
 
@@ -58,7 +52,6 @@ PythonDataStructure/
 * Common operations and their behavior
 * Idiomatic Python patterns (comprehensions, unpacking, membership checks)
 
----
 
 ## 🧩 Mini Cheat-Sheet
 
@@ -74,7 +67,6 @@ PythonDataStructure/
 * **Dict**: key–value mapping — fast lookups by key, flexible nesting
   Common ops: get, keys/values/items, dict comprehensions, `setdefault`
 
----
 
 ## 🏗️ Suggested Practice (checklist)
 
@@ -84,7 +76,6 @@ PythonDataStructure/
 * [ ] Dicts: count word frequencies and sort by count
 * [ ] Examples: build a tiny contact book using dicts + sets
 
----
 
 ## 🧪 How to Add Your Own Examples
 
@@ -98,15 +89,11 @@ PythonDataStructure/
 Demonstrates fast membership with sets vs lists.
 Run: python Sets/set_membership_demo.py
 """
-```
-
----
 
 ## 📄 License
 
 See the [`LICENSE`](./LICENSE) file in this folder for terms.
 
----
 
 ## 🤝 Contributing / Notes
 
@@ -114,7 +101,6 @@ See the [`LICENSE`](./LICENSE) file in this folder for terms.
 * Prefer descriptive filenames (e.g., `list_slicing_basics.py`).
 * If you spot an issue, open a PR or create an Issue in the main repo.
 
----
 
 ## ✍️ Author
 
